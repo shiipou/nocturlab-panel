@@ -1,2 +1,2 @@
 # nocturlab-panel
-The official Nocturlab VPS Panel that manage any pterodactyl
+The official Nocturlab VPS Panel that create and manage LXC cluster.
